@@ -1,3 +1,11 @@
+<h1 align='center'>
+  Hi there 👋 I'm Kazım 👨‍💻
+</h1>
+
+<p align='center'>
+  A mobile and web developer from Turkey, Konya.
+</p>
+
 <h3 align="left">Languages</h3>
 <div align="left">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -65,8 +73,7 @@
   <img alt="Angular" src="https://komarev.com/ghpvc/?username=kazimolmez&style=flat&color=red"/>
 </div>
 
-<p>
- 
-  ![Kazım Ölmez GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimolmez&show_icons=true&locale=en&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazimolmez&&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kazimolmez" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazimolmez&show_icons=true&locale=en&theme=dracula&layout=compact&hide_border=true" alt="kazimolmez" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazimolmez&&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="kazimolmez" />
+</div>
