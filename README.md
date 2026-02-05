@@ -55,7 +55,6 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </div>
 
 <h3 align="left">Applications</h3>
@@ -65,6 +64,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-F05032?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
@@ -83,9 +83,4 @@
 <div align="left">
   <a href="https://kazimolmez.com.tr/"><img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"/></a>
   <img alt="Angular" src="https://komarev.com/ghpvc/?username=kazimolmez&style=flat&color=red"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimolmez&show_icons=true&locale=en&theme=dracula&layout=compact&hide_border=true" alt="kazimolmez" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazimolmez&&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="kazimolmez" />
 </div>
